@@ -25,7 +25,7 @@
 	cursor: pointer;
 	position: absolute;
 	width: 100%;
-	z-index: 100;
+	z-index: 200;
 }
 
 .dr-menu > div .dr-icon {
